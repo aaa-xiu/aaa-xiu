@@ -1,16 +1,24 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github.com/aaa-xiu/aaa-xiu/main/image" width="100%" alt="background image" />
+</p>
 
-<!--
-**aaa-xiu/aaa-xiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there, I'm Iris!
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I'm currently learning:
+
+-  Python & C
+-  HTML
+
+
+---
+
+### 📫 How to reach me:
+
+- Email:a09131024@qq.com
+
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaa-xiu&show_icons=true)
