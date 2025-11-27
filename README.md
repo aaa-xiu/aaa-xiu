@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/aaa-xiu/aaa-xiu/main/image" width="100%" alt="background image" />
+  <img src="https://github.com/aaa-xiu/aaa-xiu/blob/main/image.png?raw=true" width="100%" alt="background image" />
 </p>
 
 # 👋 Hi there, I'm Iris!
