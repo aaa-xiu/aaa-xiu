@@ -8,16 +8,15 @@ Welcome to my GitHub profile.
 
 ## 🌱 I'm currently learning:
 
--  Python & C
--  HTML
-
-
+-  C
+-  HTML CSS JavaScript
+## 💖 I'd like to learn:
+- python...
 ---
 
 ### 📫 How to reach me:
 
 - Email:a09131024@qq.com
-
 
 ---
 
